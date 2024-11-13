@@ -1,0 +1,10 @@
+56,4 +56,11 @@
+    .contato__email {
+        width: 30%;
+    }
+}
+@media screen and (min-width: 1728px) {
+    .contato {
+        padding: 3em 20vw;
+    }
+}
